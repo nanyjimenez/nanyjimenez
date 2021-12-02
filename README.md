@@ -1,6 +1,6 @@
 - 👋 Hola, Yo soy @nanyjimenez
 - 👀 Estoy interesada en aprender nuevas tecnologías.
-- 🌱 Actualmente termine una formación en Full Stack en EGG
+- 🌱 Actualmente termine una formación  Full Stack en EGG
 - 💞️ Estoy buscando nuevos retos..
 - 📫 Contactame a través de vlugo.2018@gmail.com
 
